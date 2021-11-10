@@ -1,3 +1,0 @@
-hello tcc
-
-mudando o arquivo 2
