@@ -1,0 +1,5 @@
+sklearn
+pandas
+spacy
+nltk
+sklearn
