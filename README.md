@@ -6,7 +6,6 @@ O intuito deste repostirório é manter uma sólida base de conhecimento a respe
 
 ## Integrantes
 
-* Alexandre Faria - [e-mail@email.com]
 * Julio Henrique - ju718ramos@gmail.com
 * Matheus Piovani - matheus_piovani@outlook.com
 * Pedro Vieira - vieirapcm@gmail.com
